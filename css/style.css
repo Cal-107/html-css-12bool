@@ -13,3 +13,11 @@ body {
     font-size: 12px;
     border: 1px solid #fff;
 }
+
+.box-2 {
+    background-color: #00e165;
+    text-align: center;
+    padding: 10px;
+    font-size: 11px;
+    border: 1px solid #006cfa;
+}
