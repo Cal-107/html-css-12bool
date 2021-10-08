@@ -11,7 +11,7 @@ body {
     text-align: center;
     padding: 10px;
     font-size: 12px;
-    border: 1px solid #fff;
+    border: 0.5px solid #fff;
 }
 
 .box-2 {
@@ -19,5 +19,18 @@ body {
     text-align: center;
     padding: 10px;
     font-size: 11px;
-    border: 1px solid #006cfa;
+    border: 0.5px solid #006cfa;
+}
+
+.box-3 {
+    background-color: #006cfa;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    border: 0.5px solid #fff;
+    color: #006cfaff;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
 }
