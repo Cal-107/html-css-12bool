@@ -9,19 +9,19 @@
     box-sizing: border-box;
 }
 
-/* container */
+/* container setup */
 .container {
     max-width: 1170px;
     margin: 0 auto;
 }
 
-/* row */
+/* row setup */
 .row {
     display: flex;
     flex-wrap: wrap;
 }
 
-/* columns */
+/* columns setup */
 
 .col-1 {
     width: calc(100% / 12);
@@ -71,7 +71,7 @@
     width: 100%;
 }
 
-/* offset */
+/* offset setup */
 .offset-1 {
     margin-left:  calc(100% / 12);
 }
