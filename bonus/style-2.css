@@ -1,0 +1,28 @@
+body {
+    background: radial-gradient(circle, rgba(245,246,255,1) 0%, rgba(0,112,255,1) 68%, rgba(0,26,92,1) 100%);
+}
+
+.box {
+    background: rgb(222,0,0);
+    background: linear-gradient(90deg, rgba(222,0,0,1) 1%, rgba(227,45,45,1) 57%, rgba(255,152,152,1) 100%, rgba(255,255,255,1) 100%);
+    width: 50px;
+    height: 50px;
+}
+
+.box-2 {
+    background: rgb(189,189,189);
+    background: linear-gradient(90deg, rgba(189,189,189,1) 1%, rgba(226,226,226,1) 57%, rgba(236,236,236,1) 100%, rgba(255,255,255,1) 100%);
+    width: 50px;
+    height: 50px;
+}
+
+.box-3 {
+    background: rgb(0,29,222);
+    background: linear-gradient(90deg, rgba(0,29,222,1) 1%, rgba(47,86,217,1) 57%, rgba(98,118,255,1) 100%, rgba(255,255,255,1) 100%);
+    width: 50px;
+    height: 50px;
+}
+
+.justify-center {
+    justify-content: center;
+}
